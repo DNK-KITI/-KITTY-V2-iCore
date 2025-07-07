@@ -1,36 +1,57 @@
-🐾 KITTY v2 (Intelligent Tunnel Protection System)
+# KITTY V2: Intelligent Security Ecosystem with Dragon Tunnel Core
 
-1. Центральное ядро
-   - Обрабатывает приоритеты команд пользователя, fallback при сбое связи.
+## Overview
 
-2. Логический модуль
-   - Динамически выбирает защиту, проводит стресс-тесты.
+**KITTY V2** is an advanced intelligent security platform developed to safeguard high-value data streams, control critical processes, and adapt dynamically to evolving threats.  
+At the heart of this ecosystem lies the **Dragon Tunnel (DNK-6)** — a sophisticated multi-layer cryptographic system equipped with autonomous defenses and a unique internal routing protocol called **Kosichka**.
 
-3. Фейковая оболочка-датчик
-   - Обновляется для обмана атакующего, реагирует на попытки вторжения.
+---
 
-4. Статичный купол
-   - Фильтрует трафик, распределяет нагрузку при атаках.
+## Key Components
 
-5. Косичка туннелей
-   - Содержит реальные и фейковые данные, сбивает с толку хакеров.
+### 🐉 Dragon Tunnel (DNK-6)
+- **Dynamic multi-layer scale architecture:**  
+  Inspired by biological scales, protective layers continuously mutate and reposition, preventing static analysis and complicating unauthorized forensic inspection.
 
-6. Автономное обучение + кросс-валидация
-   - Улучшает модели на основе новых данных.
+- **Kosichka internal braid protocol:**  
+  Secure payloads are split into intertwined segments, traveling through pseudo-random channels inside the tunnel. Reconstruction occurs only at the secure endpoint, ensuring interception along any single path reveals nothing useful.
 
-7. Многоуровневый rollback + уведомления
-   - При критике откат к безопасной точке, уведомления пользователю.
+- **Sykov decoy streams:**  
+  Additional false data tunnels designed to divert attention from genuine transmissions, increasing attack complexity.
 
-8. Хеш-мониторинг
-   - Проверяет целостность системы в реальном времени.
+- **Autonomous rollback & hash monitoring:**  
+  The system validates itself in real-time using cryptographic hashes. If anomalies are detected, it automatically reverts to the last confirmed secure state.
 
-9. Динамическое балансирование
-   - Оптимизирует ресурсы между безопасностью и производительностью.
+- **Threat intelligence adaptation:**  
+  Regularly integrates data from trusted online security feeds and anti-malware databases, dynamically reinforcing defenses against newly discovered attacks.
 
-🚀 Рабочий процесс:
-- В мирное время: энергосбережение.
-- При угрозе: активация защиты, движение купола, включение косички.
-- Если критика: rollback + обучение на инциденте.
+---
 
-🎯 Области применения:
-- Финансы, госсектор, критическая инфраструктура.
+### 🧠 KITTY V2 Supervisor
+KITTY V2 acts as the broader intelligent control layer — managing operations, overseeing behavioral analytics, and orchestrating strategic decisions.  
+Within KITTY V2, the **Dragon Tunnel** serves as the primary secure conduit, making them a unified, self-adaptive ecosystem capable of withstanding sophisticated multi-vector attacks.
+
+---
+
+## Highlights
+✅ Fully autonomous multi-layer defense  
+✅ Unique DNA-like Kosichka data routing  
+✅ Live updates from global threat databases  
+✅ Built to protect financial systems, state infrastructure, and confidential networks
+
+---
+
+## Licensing & Rights
+This project is an original work by **Anton Aleksandrovich**, independently developed and maintained.  
+All rights reserved under international IP conventions.  
+Unauthorized copying or reuse is prohibited without explicit written consent.
+
+---
+
+## Territorial Notes
+This system is documented for patent protection in both the **United States** and **Ukraine**, with future filings planned under international treaties.
+
+---
+
+## Contact
+For partnership or licensing discussions, please contact via official repository channels.
